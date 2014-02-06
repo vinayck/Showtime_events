@@ -1,0 +1,36 @@
+#section .float_right
+{
+	height:530px;
+}
+
+#section .float_left
+{
+	height:530px;
+}
+
+.about_us_height
+{
+	height:530px;
+}
+
+#space
+{
+	background-color:#eeeeee;
+	height:220px;
+	color:#404040;
+	-webkit-box-shadow: inset 1px -13px 7px 5px rgba(214, 214, 214, 0.88);
+	-moz-box-shadow: inset 1px -13px 7px 5px rgba(214, 214, 214, 0.88);
+	box-shadow: inset 1px -13px 7px 5px rgba(214, 214, 214, 0.88);
+}
+
+#space img
+{
+	display: inline-block;
+	margin-left: 53px;
+	margin-top: 25px;
+	height: 150px;
+	width: 270px;
+	-webkit-box-shadow: 7px 7px 7px -1px rgba(116, 115, 115, 0.88);
+	-moz-box-shadow:7px 7px 7px -1px rgba(116, 115, 115, 0.88);
+	box-shadow:7px 7px 7px -1px rgba(116, 115, 115, 0.88);
+}

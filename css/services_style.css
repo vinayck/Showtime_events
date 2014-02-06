@@ -1,0 +1,85 @@
+#section
+{
+	height:440px;
+	-webkit-box-shadow: inset 7px 5px 7px -1px rgba(214, 214, 214, 0.88);
+	-moz-box-shadow: inset 7px 5px 7px -1px rgba(214, 214, 214, 0.88);
+	box-shadow: inset 7px 5px 7px -1px rgba(214, 214, 214, 0.88);
+}
+
+#section .float_right
+{
+	width:622px !important;
+	height:440px !important;
+	-webkit-box-shadow: inset -5px 5px 0px -5px rgba(214, 214, 214, 0.88)!important;
+	-moz-box-shadow: inset -5px 5px 0px -5px rgba(214, 214, 214, 0.88)!important;
+	box-shadow: inset -5px 5px 0px -5px rgba(214, 214, 214, 0.88)!important;
+}
+
+#section .float_right img
+{
+	width:622px;
+	height:367px;
+}
+
+#section .float_left
+{
+	width:402px !important;
+	height:440px !important;
+}
+
+#section .float_left img
+{
+	position: relative;
+	left: 241px;
+	bottom: 55px;
+}
+
+#content
+{
+	width:204px !important;
+}
+
+#services
+{
+	background-color:#eeeeee;
+	height:1660px;
+	color:#404040;
+	-webkit-box-shadow: inset 7px -5px 7px -1px rgba(214, 214, 214, 0.88);
+	-moz-box-shadow: inset 7px -5px 7px -1px rgba(214, 214, 214, 0.88);
+	box-shadow: inset 7px -5px 7px -1px rgba(214, 214, 214, 0.88);
+}
+
+.rows
+{
+	height:400px;
+}
+
+.object
+{
+	display:inline-block;
+	margin-left:105px;
+	width:210px;
+	vertical-align:text-top;
+}
+
+h1
+{
+	font-size:22px !important;
+	margin-left:80px;
+}
+
+h3
+{
+	font-size:18px;
+	margin-top:32px;	
+	margin-bottom:20px;
+	text-transform:uppercase;
+	font-weight:bold;
+	line-height:25px;
+}
+
+p
+{
+	text-align:left;
+	line-height:20px;
+}
